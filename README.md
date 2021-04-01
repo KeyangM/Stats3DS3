@@ -1,3 +1,3 @@
 # Stats3DS3
 
-1st change
+This is a repository for Stats 3DS3
